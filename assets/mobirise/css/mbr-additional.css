@@ -1754,7 +1754,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qP2pWzj673 {
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/mbr-1441x1080.jpg");
 }
 .cid-qQ9Mdc28h1 {
   padding-top: 90px;
@@ -1960,4 +1960,7 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qP2pWBkGv8 .copyright > p {
+  color: #c1c1c1;
 }
